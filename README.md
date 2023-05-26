@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ##About Me
 
-#####  Highly skilled and ultra-modern Mern stack Web Developer. Always Focused and passionate about learning new technologies. I love to solve real-world problems. I love programming and most of the time I am spent my time with coding. when I am trouble to fix any bug then I enjoy this time.
+#####  Highly skilled and ultra-modern Mern stack Web Developer. Always Focused and passionate about learning new technologies. I love to solve real-world problems. I pride myself on doing quality work and maintain excellent communication. I love programming and most of the time I am spent my time with coding. when I am trouble to fix any bug then I enjoy this time.
 
 
 
