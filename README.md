@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+##About Me
+
+#####  Highly skilled and ultra-modern Mern stack Web Developer. Always Focused and passionate about learning new technologies. I love to solve real-world problems.
+
+
 
 ## Connect With me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iqbal-hossain10) 
