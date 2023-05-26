@@ -1,5 +1,7 @@
 ## Hi, I'm Iqbal Hossain
-
+### I am Web Developer
+### Love to write code
+### love learn new technologies
 
 <!--
 **IqbalHossain4/iqbalhossain4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 
-## 🌐 Socials:
+## 🌐 Connect With me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iqbal-hossain10) 
 
 # 💻 Tech Stack:
